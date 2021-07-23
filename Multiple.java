@@ -1,3 +1,3 @@
-public class mul{
+public class mul{welcome
 
 }
