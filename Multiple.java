@@ -1,3 +1,3 @@
-public class mul{welcome
+public class mul{welcome to Github
 
 }
